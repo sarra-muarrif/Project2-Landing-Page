@@ -104,21 +104,25 @@ section {
   color: #fff;
   transition: ease 0.3s all;
 }
-@media(max-width:768px){
+.active {
+  background-color: rgb(135, 162, 170);
+}
+@media (max-width: 768px) {
   .navbar__menu {
     display: none;
   }
-  .navbar__menu.shownNavbarMenu { 
+  .navbar__menu.shownNavbarMenu {
     display: block;
- }
- .navbar__menu.shownNavbarMenu ul{
-  display: flex;
-  flex-direction: column;
-  text-align: left;
+  }
+  .navbar__menu.shownNavbarMenu ul {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  }
 }
- }
-@media(min-width:768px){
-  .hamburger__menu{
+/* hiddn hamburger menu in tablet and laptop view*/
+@media (min-width: 768px) {
+  .hamburger__menu {
     display: none;
   }
 }
