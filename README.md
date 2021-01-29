@@ -7,7 +7,7 @@
 ## :computer: Running the App:
 
 1. fork and clone the repository.
-2. onpen the _index.html_ file in browser.
+2. open the _index.html_ file in browser.
 
 ## :pushpin: Features:
 
