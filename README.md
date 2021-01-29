@@ -14,7 +14,7 @@
 - Add an active state to your navigation items when a section is in the viewport
 - Add a scroll to top button on the page that’s only visible when the user scrolls below the fold of the page.
 
-## :camera: ScreenShot:
+
 
 ## :mag_right: References:
 
